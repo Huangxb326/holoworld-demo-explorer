@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-08-03T08:59:16.610Z",
+  "source": "assets/minecraftcity_grid_demo.glb",
+  "cityScale": 55,
+  "minX": -195,
+  "minZ": -195,
+  "maxX": 195,
+  "maxZ": 195,
+  "cellSize": 1.5,
+  "width": 261,
+  "depth": 261,
+  "heightLayers": 12,
+  "noData": -9999,
+  "validCells": 40351,
+  "acceptedTriangles": 774232,
+  "sampledMinY": 0.9530494213104248,
+  "sampledMaxY": 61.074501037597656,
+  "data": "city-walk-height.bin"
+}

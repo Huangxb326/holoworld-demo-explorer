@@ -1,0 +1,1356 @@
+{
+  "id": "cyberpunk-retail-cafe",
+  "style": "cyberpunk",
+  "label": "Cyberpunk Retail + Cafe Lounge",
+  "source_case": "0726/cyberpunk_retail_floor_cafe_lounge_2026-07-25__10-59-22__scene_000",
+  "adjustment_tool_version": "1.0",
+  "adjustment_priority": "P0",
+  "space_scale": [
+    1.28,
+    1.05,
+    1.12
+  ],
+  "room_id": "room_0+room_1",
+  "room_type": "retail_floor + cafe_lounge",
+  "room_count": 2,
+  "room_area_original_square_metres": 30,
+  "room_area_adjusted_square_metres": 40.32,
+  "room_center_blender_xy": [
+    14.42999974,
+    14.37024819
+  ],
+  "rooms": [
+    {
+      "id": "room_0",
+      "type": "retail_floor",
+      "area_original": 16.7965314,
+      "area_adjusted": 22.574538201600003,
+      "polygon_blender_xy": [
+        [
+          14.8498400728,
+          11.4947047605
+        ],
+        [
+          10.9245753688,
+          11.4947047605
+        ],
+        [
+          10.9245753688,
+          17.2457916195
+        ],
+        [
+          14.8498400728,
+          17.2457916195
+        ]
+      ],
+      "polygon_three_xz": [
+        [
+          0.41984033279999977,
+          2.8755434295000004
+        ],
+        [
+          -3.5054243712,
+          2.8755434295000004
+        ],
+        [
+          -3.5054243712,
+          -2.8755434295000004
+        ],
+        [
+          0.41984033279999977,
+          -2.8755434295000004
+        ]
+      ]
+    },
+    {
+      "id": "room_1",
+      "type": "cafe_lounge",
+      "area_original": 13.2034686,
+      "area_adjusted": 17.7454617984,
+      "polygon_blender_xy": [
+        [
+          14.8498400728,
+          17.2457916195
+        ],
+        [
+          17.9354241112,
+          17.2457916195
+        ],
+        [
+          17.9354241112,
+          11.4947047605
+        ],
+        [
+          14.8498400728,
+          11.4947047605
+        ]
+      ],
+      "polygon_three_xz": [
+        [
+          0.41984033279999977,
+          -2.8755434295000004
+        ],
+        [
+          3.5054243712,
+          -2.8755434295000004
+        ],
+        [
+          3.5054243712,
+          2.8755434295000004
+        ],
+        [
+          0.41984033279999977,
+          2.8755434295000004
+        ]
+      ]
+    }
+  ],
+  "mesh_count": 37,
+  "packed_image_count": 59,
+  "images": [
+    {
+      "name": "Image_0",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_1",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_10",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_11",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_12",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_13",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_14",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_15",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_16",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_17",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_18",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_19",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_2",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_20",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_21",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_22",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_23",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_24",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_25",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_26",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_27",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_28",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_29",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_3",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_30",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_31",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_32",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_33",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_34",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_35",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_36",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_37",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_38",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_39",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_4",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_40",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_41",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_42",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_43",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_44",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_45",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_46",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_47",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_48",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_49",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_5",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_50",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_51",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_52",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_53",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_54",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_55",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_56",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_57",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_58",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_6",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_7",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_8",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_9",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "geometry_0",
+      "root": "world",
+      "semantic_id": null,
+      "semantic_type": null,
+      "bounds_blender": {
+        "min": [
+          14.849839210510254,
+          11.494704246520996,
+          -0.11200106889009476
+        ],
+        "max": [
+          17.935422897338867,
+          17.245790481567383,
+          -0.0000010681152389224735
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.001",
+      "root": "world.001",
+      "semantic_id": "wall_0_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          14.849839210510254,
+          11.442204475402832,
+          -0.0000010681152389224735
+        ],
+        "max": [
+          17.935422897338867,
+          11.494704246520996,
+          2.7999989986419678
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.002",
+      "root": "world.002",
+      "semantic_id": "wall_1_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          17.935420989990234,
+          11.494704246520996,
+          -0.0000012810946827812586
+        ],
+        "max": [
+          17.99942398071289,
+          17.245790481567383,
+          2.7999989986419678
+        ]
+      }
+    },
+    {
+      "name": "frame",
+      "root": "world.003",
+      "semantic_id": null,
+      "semantic_type": null,
+      "bounds_blender": {
+        "min": [
+          17.935422897338867,
+          13.425248146057129,
+          1.0079989433288574
+        ],
+        "max": [
+          17.999422073364258,
+          15.315247535705566,
+          2.351999044418335
+        ]
+      }
+    },
+    {
+      "name": "glass",
+      "root": "world.003",
+      "semantic_id": null,
+      "semantic_type": null,
+      "bounds_blender": {
+        "min": [
+          17.961023330688477,
+          13.477747917175293,
+          1.0639989376068115
+        ],
+        "max": [
+          17.97382164001465,
+          15.262747764587402,
+          2.295999050140381
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.003",
+      "root": "world.004",
+      "semantic_id": "wall_2_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          14.849839210510254,
+          17.245790481567383,
+          0
+        ],
+        "max": [
+          17.935422897338867,
+          17.29829216003418,
+          2.799999952316284
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.004",
+      "root": "world.005",
+      "semantic_id": "wall_3_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          14.78583812713623,
+          11.494704246520996,
+          -0.0000012810946827812586
+        ],
+        "max": [
+          14.849841117858887,
+          17.245790481567383,
+          2.7999989986419678
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.006",
+      "root": "world.006",
+      "semantic_id": "lounge_sofa_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          15.52118968963623,
+          11.706490516662598,
+          -0.05923934280872345
+        ],
+        "max": [
+          17.26780891418457,
+          12.480607986450195,
+          0.7224462628364563
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.008",
+      "root": "world.007",
+      "semantic_id": "coffee_table_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          15.936841011047363,
+          14.053245544433594,
+          -0.057221949100494385
+        ],
+        "max": [
+          16.848894119262695,
+          14.683832168579102,
+          0.20807118713855743
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.012",
+      "root": "world.009",
+      "semantic_id": "lamp_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          15.524908065795898,
+          13.052129745483398,
+          -0.05683128163218498
+        ],
+        "max": [
+          15.910514831542969,
+          13.459328651428223,
+          1.3419808149337769
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.009",
+      "root": "world.010",
+      "semantic_id": "cafe_lounge_chandelier_0",
+      "semantic_type": "ceiling_mounted",
+      "bounds_blender": {
+        "min": [
+          16.15045738220215,
+          13.32806396484375,
+          2.349998950958252
+        ],
+        "max": [
+          16.788331985473633,
+          13.890905380249023,
+          2.7999989986419678
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.010",
+      "root": "world.011",
+      "semantic_id": "cafe_lounge_chandelier_2_0",
+      "semantic_type": "ceiling_mounted",
+      "bounds_blender": {
+        "min": [
+          16.055774688720703,
+          15.343114852905273,
+          2.349998950958252
+        ],
+        "max": [
+          16.697307586669922,
+          15.910116195678711,
+          2.7999989986419678
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.007",
+      "root": "world.012",
+      "semantic_id": "smoked_vase_0",
+      "semantic_type": "manipuland",
+      "bounds_blender": {
+        "min": [
+          16.08211898803711,
+          14.408113479614258,
+          0.23699158430099487
+        ],
+        "max": [
+          16.18707275390625,
+          14.513079643249512,
+          0.3414411246776581
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.011",
+      "root": "world.013",
+      "semantic_id": "planter_pod_0",
+      "semantic_type": "manipuland",
+      "bounds_blender": {
+        "min": [
+          16.524423599243164,
+          14.246454238891602,
+          0.237358957529068
+        ],
+        "max": [
+          16.648191452026367,
+          14.370139122009277,
+          0.39746734499931335
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.013",
+      "root": "world.014",
+      "semantic_id": null,
+      "semantic_type": null,
+      "bounds_blender": {
+        "min": [
+          10.924575805664062,
+          11.494704246520996,
+          -0.11200106889009476
+        ],
+        "max": [
+          14.84984016418457,
+          17.245790481567383,
+          -0.0000010681152389224735
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.014",
+      "root": "world.015",
+      "semantic_id": "wall_0_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          10.924575805664062,
+          17.245790481567383,
+          0
+        ],
+        "max": [
+          14.84984016418457,
+          17.29829216003418,
+          2.799999952316284
+        ]
+      }
+    },
+    {
+      "name": "frame.001",
+      "root": "world.016",
+      "semantic_id": null,
+      "semantic_type": null,
+      "bounds_blender": {
+        "min": [
+          11.99120807647705,
+          17.245790481567383,
+          1.0079989433288574
+        ],
+        "max": [
+          13.783207893371582,
+          17.29829216003418,
+          2.351999044418335
+        ]
+      }
+    },
+    {
+      "name": "glass.001",
+      "root": "world.016",
+      "semantic_id": null,
+      "semantic_type": null,
+      "bounds_blender": {
+        "min": [
+          12.055208206176758,
+          17.26679039001465,
+          1.0639989376068115
+        ],
+        "max": [
+          13.719207763671875,
+          17.277292251586914,
+          2.295999050140381
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.015",
+      "root": "world.017",
+      "semantic_id": "wall_1_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          10.860572814941406,
+          11.494704246520996,
+          -0.0000012810946827812586
+        ],
+        "max": [
+          10.924575805664062,
+          17.245790481567383,
+          2.7999989986419678
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.016",
+      "root": "world.018",
+      "semantic_id": "wall_2_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          10.924575805664062,
+          11.442204475402832,
+          -0.0000010681152389224735
+        ],
+        "max": [
+          14.84984016418457,
+          11.494704246520996,
+          2.7999989986419678
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.017",
+      "root": "world.019",
+      "semantic_id": "wall_3_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          14.849837303161621,
+          11.494704246520996,
+          -0.0000012810946827812586
+        ],
+        "max": [
+          14.913840293884277,
+          17.245790481567383,
+          2.7999989986419678
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.018",
+      "root": "world.020",
+      "semantic_id": "lounge_sofa_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          11.484964370727539,
+          11.774282455444336,
+          -0.05908101424574852
+        ],
+        "max": [
+          13.231180191040039,
+          12.547494888305664,
+          0.7226197719573975
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.019",
+      "root": "world.021",
+      "semantic_id": "coffee_table_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          12.10922908782959,
+          12.54186725616455,
+          -0.05722411349415779
+        ],
+        "max": [
+          13.021323204040527,
+          13.17251205444336,
+          0.20806582272052765
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.020",
+      "root": "world.022",
+      "semantic_id": "floor_lamp_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          13.372822761535645,
+          13.253308296203613,
+          -0.05687420442700386
+        ],
+        "max": [
+          13.779627799987793,
+          13.63850212097168,
+          1.3419378995895386
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.021",
+      "root": "world.023",
+      "semantic_id": "display_cabinet_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          14.173114776611328,
+          11.921452522277832,
+          -0.057961974292993546
+        ],
+        "max": [
+          14.62580394744873,
+          12.79997444152832,
+          1.2429802417755127
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.022",
+      "root": "world.024",
+      "semantic_id": "bookshelf_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          14.256360054016113,
+          16.183731079101562,
+          -0.05664903670549393
+        ],
+        "max": [
+          14.565234184265137,
+          16.904361724853516,
+          1.386197566986084
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.023",
+      "root": "world.025",
+      "semantic_id": "sales_counter_1",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          11.65152645111084,
+          15.839731216430664,
+          -0.05741230025887489
+        ],
+        "max": [
+          13.269293785095215,
+          16.2525691986084,
+          0.9931625723838806
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.025",
+      "root": "world.027",
+      "semantic_id": "illuminated_shelf_1",
+      "semantic_type": "wall_mounted",
+      "bounds_blender": {
+        "min": [
+          10.924575805664062,
+          11.671344757080078,
+          0.8974964022636414
+        ],
+        "max": [
+          11.204575538635254,
+          12.788064956665039,
+          2.126502275466919
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.026",
+      "root": "world.028",
+      "semantic_id": "smoked_showcase_0",
+      "semantic_type": "wall_mounted",
+      "bounds_blender": {
+        "min": [
+          10.924575805664062,
+          12.978702545166016,
+          1.0516148805618286
+        ],
+        "max": [
+          11.244575500488281,
+          14.105785369873047,
+          1.8584715127944946
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.027",
+      "root": "world.029",
+      "semantic_id": "track_light_rail_center_0",
+      "semantic_type": "ceiling_mounted",
+      "bounds_blender": {
+        "min": [
+          11.93720817565918,
+          13.664703369140625,
+          2.694497585296631
+        ],
+        "max": [
+          12.045207977294922,
+          15.075790405273438,
+          2.7999989986419678
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.028",
+      "root": "world.030",
+      "semantic_id": "track_light_rail_center_1",
+      "semantic_type": "ceiling_mounted",
+      "bounds_blender": {
+        "min": [
+          13.729207992553711,
+          13.664703369140625,
+          2.694497585296631
+        ],
+        "max": [
+          13.837207794189453,
+          15.075790405273438,
+          2.7999989986419678
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.029",
+      "root": "world.031",
+      "semantic_id": "ambient_lamp_0",
+      "semantic_type": "manipuland",
+      "bounds_blender": {
+        "min": [
+          12.305685997009277,
+          12.75210952758789,
+          0.2376764565706253
+        ],
+        "max": [
+          12.434907913208008,
+          12.881665229797363,
+          0.38271471858024597
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.034",
+      "root": "world.036",
+      "semantic_id": "stationery_organizer_2",
+      "semantic_type": "manipuland",
+      "bounds_blender": {
+        "min": [
+          14.48755168914795,
+          11.869659423828125,
+          0.8955584764480591
+        ],
+        "max": [
+          14.812392234802246,
+          13.021334648132324,
+          2.290114641189575
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.035",
+      "root": "world.037",
+      "semantic_id": "ambient_lamp_3",
+      "semantic_type": "manipuland",
+      "bounds_blender": {
+        "min": [
+          11.103178024291992,
+          12.423043251037598,
+          2.1938858032226562
+        ],
+        "max": [
+          11.204035758972168,
+          12.523033142089844,
+          2.3392322063446045
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.036",
+      "root": "world.038",
+      "semantic_id": "stationery_organizer_3",
+      "semantic_type": "manipuland",
+      "bounds_blender": {
+        "min": [
+          11.101767539978027,
+          11.943321228027344,
+          2.194056272506714
+        ],
+        "max": [
+          11.202850341796875,
+          12.07966423034668,
+          2.296961784362793
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.037",
+      "root": "world.039",
+      "semantic_id": "filled_container_0",
+      "semantic_type": "manipuland",
+      "bounds_blender": {
+        "min": [
+          11.048023223876953,
+          13.42909049987793,
+          1.9000760316848755
+        ],
+        "max": [
+          11.19611644744873,
+          13.613018035888672,
+          1.9445302486419678
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.038",
+      "root": "world.040",
+      "semantic_id": null,
+      "semantic_type": null,
+      "bounds_blender": {
+        "min": [
+          11.067886352539062,
+          13.467092514038086,
+          1.914520502090454
+        ],
+        "max": [
+          11.180142402648926,
+          13.574907302856445,
+          2.0624542236328125
+        ]
+      }
+    }
+  ],
+  "navigation": {
+    "eye_height": 1.4,
+    "bounds": {
+      "minX": -3.2254243712,
+      "maxX": 3.2254243712,
+      "minZ": -2.5955434295,
+      "maxZ": 2.5955434295
+    },
+    "obstacles": [
+      {
+        "id": "lounge_sofa_0",
+        "minX": 1.091189949636231,
+        "maxX": 2.837809174184571,
+        "minZ": 1.8896402035498046,
+        "maxZ": 2.663757673337402,
+        "minY": -0.05923934280872345,
+        "maxY": 0.7224462628364563
+      },
+      {
+        "id": "coffee_table_0",
+        "minX": 1.5068412710473638,
+        "maxX": 2.418894379262696,
+        "minZ": -0.3135839785791017,
+        "maxZ": 0.3170026455664061,
+        "minY": -0.057221949100494385,
+        "maxY": 0.20807118713855743
+      },
+      {
+        "id": "lamp_0",
+        "minX": 1.094908325795899,
+        "maxX": 1.4805150915429692,
+        "minZ": 0.9109195385717772,
+        "maxZ": 1.3181184445166014,
+        "minY": -0.05683128163218498,
+        "maxY": 1.3419808149337769
+      },
+      {
+        "id": "lounge_sofa_0",
+        "minX": -2.9450353692724605,
+        "maxX": -1.1988195489599605,
+        "minZ": 1.8227533016943358,
+        "maxZ": 2.595965734555664,
+        "minY": -0.05908101424574852,
+        "maxY": 0.7226197719573975
+      },
+      {
+        "id": "coffee_table_0",
+        "minX": -2.3207706521704097,
+        "maxX": -1.4086765359594722,
+        "minZ": 1.1977361355566405,
+        "maxZ": 1.828380933835449,
+        "minY": -0.05722411349415779,
+        "maxY": 0.20806582272052765
+      },
+      {
+        "id": "floor_lamp_0",
+        "minX": -1.057176978464355,
+        "maxX": -0.6503719400122066,
+        "minZ": 0.7317460690283202,
+        "maxZ": 1.1169398937963866,
+        "minY": -0.05687420442700386,
+        "maxY": 1.3419378995895386
+      },
+      {
+        "id": "display_cabinet_0",
+        "minX": -0.2568849633886714,
+        "maxX": 0.19580420744873095,
+        "minZ": 1.5702737484716796,
+        "maxZ": 2.448795667722168,
+        "minY": -0.057961974292993546,
+        "maxY": 1.2429802417755127
+      },
+      {
+        "id": "bookshelf_0",
+        "minX": -0.17363968598388624,
+        "maxX": 0.1352344442651372,
+        "minZ": -2.5341135348535158,
+        "maxZ": -1.8134828891015626,
+        "minY": -0.05664903670549393,
+        "maxY": 1.386197566986084
+      },
+      {
+        "id": "sales_counter_1",
+        "minX": -2.7784732888891597,
+        "maxX": -1.1607059549047847,
+        "minZ": -1.8823210086083986,
+        "maxZ": -1.4694830264306642,
+        "minY": -0.05741230025887489,
+        "maxY": 0.9931625723838806
+      }
+    ],
+    "spawn": {
+      "position": [
+        3.1745756287999995,
+        1.4,
+        -2.5955434295
+      ],
+      "target": [
+        -3.2254243712,
+        1.28,
+        1.2444565705000001
+      ]
+    }
+  }
+}

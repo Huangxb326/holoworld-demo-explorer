@@ -1,0 +1,1064 @@
+{
+  "id": "cyberpunk-office",
+  "style": "cyberpunk",
+  "label": "Cyberpunk Executive + Open Office",
+  "source_case": "0726/cyberpunk_executive_office_open_office_2026-07-25__13-00-10__scene_000",
+  "adjustment_tool_version": "1.0",
+  "adjustment_priority": "P0",
+  "space_scale": [
+    1.15,
+    1.15,
+    1.12
+  ],
+  "room_id": "room_0+room_1",
+  "room_type": "executive_office + open_office",
+  "room_count": 2,
+  "room_area_original_square_metres": 30,
+  "room_area_adjusted_square_metres": 39.675,
+  "room_center_blender_xy": [
+    6.14460882,
+    6.2697536000000005
+  ],
+  "rooms": [
+    {
+      "id": "room_0",
+      "type": "executive_office",
+      "area_original": 11.7311645,
+      "area_adjusted": 15.514465051249998,
+      "polygon_blender_xy": [
+        [
+          1.6400223765000002,
+          4.0678311545
+        ],
+        [
+          5.162958677000001,
+          4.0678311545
+        ],
+        [
+          5.162958677000001,
+          8.4716760455
+        ],
+        [
+          1.6400223765000002,
+          8.4716760455
+        ]
+      ],
+      "polygon_three_xz": [
+        [
+          -4.5045864435,
+          2.2019224455
+        ],
+        [
+          -0.9816501429999995,
+          2.2019224455
+        ],
+        [
+          -0.9816501429999995,
+          -2.2019224455
+        ],
+        [
+          -4.5045864435,
+          -2.2019224455
+        ]
+      ]
+    },
+    {
+      "id": "room_1",
+      "type": "open_office",
+      "area_original": 18.2688355,
+      "area_adjusted": 24.160534948749998,
+      "polygon_blender_xy": [
+        [
+          5.162958677000001,
+          4.0678311545
+        ],
+        [
+          10.649195263500001,
+          4.0678311545
+        ],
+        [
+          10.649195263500001,
+          8.4716760455
+        ],
+        [
+          5.162958677000001,
+          8.4716760455
+        ]
+      ],
+      "polygon_three_xz": [
+        [
+          -0.9816501429999995,
+          2.2019224455
+        ],
+        [
+          4.504586443500001,
+          2.2019224455
+        ],
+        [
+          4.504586443500001,
+          -2.2019224455
+        ],
+        [
+          -0.9816501429999995,
+          -2.2019224455
+        ]
+      ]
+    }
+  ],
+  "mesh_count": 28,
+  "packed_image_count": 45,
+  "images": [
+    {
+      "name": "Image_0",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_1",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_10",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_11",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_12",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_13",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_14",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_15",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_16",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_17",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_18",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_19",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_2",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_20",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_21",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_22",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_23",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_24",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_25",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_26",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_27",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_28",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_29",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_3",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_30",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_31",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_32",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_33",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_34",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_35",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_36",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_37",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_38",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_39",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_4",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_40",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_41",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_42",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_43",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_44",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_5",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_6",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_7",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_8",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_9",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "geometry_0",
+      "root": "world",
+      "semantic_id": null,
+      "semantic_type": null,
+      "bounds_blender": {
+        "min": [
+          1.6400220394134521,
+          4.067831039428711,
+          -0.11200053989887238
+        ],
+        "max": [
+          5.162958145141602,
+          8.471675872802734,
+          -5.340576194612368e-7
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.001",
+      "root": "world.001",
+      "semantic_id": "wall_0_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          1.6400220394134521,
+          8.471675872802734,
+          0
+        ],
+        "max": [
+          5.16295862197876,
+          8.529176712036133,
+          2.799999952316284
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.002",
+      "root": "world.002",
+      "semantic_id": "wall_1_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          1.582520842552185,
+          4.067831039428711,
+          -7.17312161668815e-7
+        ],
+        "max": [
+          1.6400226354599,
+          8.471675872802734,
+          2.799999713897705
+        ]
+      }
+    },
+    {
+      "name": "frame",
+      "root": "world.003",
+      "semantic_id": null,
+      "semantic_type": null,
+      "bounds_blender": {
+        "min": [
+          1.582521915435791,
+          5.4647536277771,
+          1.0080000162124634
+        ],
+        "max": [
+          1.640021800994873,
+          7.074753284454346,
+          2.3520002365112305
+        ]
+      }
+    },
+    {
+      "name": "glass",
+      "root": "world.003",
+      "semantic_id": null,
+      "semantic_type": null,
+      "bounds_blender": {
+        "min": [
+          1.6055219173431396,
+          5.522253513336182,
+          1.064000129699707
+        ],
+        "max": [
+          1.6170217990875244,
+          7.017253398895264,
+          2.2960000038146973
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.003",
+      "root": "world.004",
+      "semantic_id": "wall_2_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          1.6400220394134521,
+          4.010331153869629,
+          0
+        ],
+        "max": [
+          5.162958145141602,
+          4.067831039428711,
+          2.799999952316284
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.004",
+      "root": "world.005",
+      "semantic_id": "wall_3_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          5.162957191467285,
+          4.067831039428711,
+          -7.17312161668815e-7
+        ],
+        "max": [
+          5.220458984375,
+          8.471675872802734,
+          2.799999713897705
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.006",
+      "root": "world.006",
+      "semantic_id": "exec_desk_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          2.1707851886749268,
+          7.189930438995361,
+          -0.05913368985056877
+        ],
+        "max": [
+          3.629743814468384,
+          7.948140621185303,
+          0.6639464497566223
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.008",
+      "root": "world.007",
+      "semantic_id": "credenza_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          4.550979137420654,
+          6.653038501739502,
+          -0.059095144271850586
+        ],
+        "max": [
+          5.023675441741943,
+          7.949425220489502,
+          0.5470782518386841
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.012",
+      "root": "world.009",
+      "semantic_id": "office_chair_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          2.7767577171325684,
+          4.346787929534912,
+          -0.058017387986183167
+        ],
+        "max": [
+          3.3893468379974365,
+          4.9156622886657715,
+          1.0469352006912231
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.005",
+      "root": "world.010",
+      "semantic_id": "exec_bookshelf_0",
+      "semantic_type": "wall_mounted",
+      "bounds_blender": {
+        "min": [
+          2.8541526794433594,
+          8.221675872802734,
+          1.29276704788208
+        ],
+        "max": [
+          3.9474010467529297,
+          8.471675872802734,
+          2.0120840072631836
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.007",
+      "root": "world.011",
+      "semantic_id": "exec_bookshelf_balance_a_0",
+      "semantic_type": "wall_mounted",
+      "bounds_blender": {
+        "min": [
+          2.4606876373291016,
+          4.067831039428711,
+          1.2644439935684204
+        ],
+        "max": [
+          3.5510683059692383,
+          4.317831039428711,
+          1.9793541431427002
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.009",
+      "root": "world.012",
+      "semantic_id": "exec_bookshelf_balance_b_0",
+      "semantic_type": "wall_mounted",
+      "bounds_blender": {
+        "min": [
+          4.912957668304443,
+          4.464970588684082,
+          1.2633963823318481
+        ],
+        "max": [
+          5.162957668304443,
+          5.5695295333862305,
+          2.000256299972534
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.010",
+      "root": "world.013",
+      "semantic_id": "desk_tray_0",
+      "semantic_type": "manipuland",
+      "bounds_blender": {
+        "min": [
+          2.2065770626068115,
+          7.691098690032959,
+          0.7441261410713196
+        ],
+        "max": [
+          2.307849407196045,
+          7.85261869430542,
+          0.7771219611167908
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.011",
+      "root": "world.014",
+      "semantic_id": "desk_tray_1",
+      "semantic_type": "manipuland",
+      "bounds_blender": {
+        "min": [
+          4.6950883865356445,
+          6.949827194213867,
+          0.5970258712768555
+        ],
+        "max": [
+          4.870750427246094,
+          7.0761542320251465,
+          0.6302529573440552
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.013",
+      "root": "world.015",
+      "semantic_id": null,
+      "semantic_type": null,
+      "bounds_blender": {
+        "min": [
+          5.162958145141602,
+          4.067831039428711,
+          -0.11200053989887238
+        ],
+        "max": [
+          10.64919376373291,
+          8.471675872802734,
+          -5.340576194612368e-7
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.015",
+      "root": "world.016",
+      "semantic_id": "wall_0_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          5.162958145141602,
+          4.010331153869629,
+          0
+        ],
+        "max": [
+          10.64919376373291,
+          4.067831039428711,
+          2.799999952316284
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.016",
+      "root": "world.017",
+      "semantic_id": "wall_1_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          10.64919376373291,
+          4.067831039428711,
+          -7.17312161668815e-7
+        ],
+        "max": [
+          10.706695556640625,
+          8.471675872802734,
+          2.799999713897705
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.017",
+      "root": "world.018",
+      "semantic_id": "wall_2_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          5.162957668304443,
+          8.471674919128418,
+          0
+        ],
+        "max": [
+          10.64919376373291,
+          8.52917766571045,
+          2.799999952316284
+        ]
+      }
+    },
+    {
+      "name": "frame.001",
+      "root": "world.019",
+      "semantic_id": null,
+      "semantic_type": null,
+      "bounds_blender": {
+        "min": [
+          6.48176383972168,
+          8.471675872802734,
+          1.0079994201660156
+        ],
+        "max": [
+          8.781764030456543,
+          8.529176712036133,
+          2.351999521255493
+        ]
+      }
+    },
+    {
+      "name": "glass.001",
+      "root": "world.019",
+      "semantic_id": null,
+      "semantic_type": null,
+      "bounds_blender": {
+        "min": [
+          6.539263725280762,
+          8.49467658996582,
+          1.0639994144439697
+        ],
+        "max": [
+          8.724264144897461,
+          8.506175994873047,
+          2.295999526977539
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.018",
+      "root": "world.020",
+      "semantic_id": "wall_3_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          5.105456829071045,
+          4.067831039428711,
+          -7.17312161668815e-7
+        ],
+        "max": [
+          5.16295862197876,
+          8.471675872802734,
+          2.799999713897705
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.019",
+      "root": "world.021",
+      "semantic_id": "execdesk_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          8.665118217468262,
+          7.0395989418029785,
+          -0.059158872812986374
+        ],
+        "max": [
+          10.168929100036621,
+          7.837606430053711,
+          0.6639716029167175
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.020",
+      "root": "world.022",
+      "semantic_id": "teambench_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          7.170709133148193,
+          5.02436637878418,
+          -0.05936145409941673
+        ],
+        "max": [
+          8.79899787902832,
+          5.820353984832764,
+          0.6929749846458435
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.021",
+      "root": "world.023",
+      "semantic_id": "taskchair_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          6.008847713470459,
+          5.684906005859375,
+          -0.058017391711473465
+        ],
+        "max": [
+          6.628108024597168,
+          6.261013507843018,
+          1.0469352006912231
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.022",
+      "root": "world.024",
+      "semantic_id": "taskchair_c_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          9.621415138244629,
+          5.00855016708374,
+          -0.05801744759082794
+        ],
+        "max": [
+          10.251096725463867,
+          5.5958380699157715,
+          1.0469353199005127
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.023",
+      "root": "world.025",
+      "semantic_id": "desk_tray_0",
+      "semantic_type": "manipuland",
+      "bounds_blender": {
+        "min": [
+          8.962787628173828,
+          7.193063259124756,
+          0.6910488605499268
+        ],
+        "max": [
+          9.089316368103027,
+          7.366127014160156,
+          0.7917984127998352
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.024",
+      "root": "world.026",
+      "semantic_id": "desk_planter_0",
+      "semantic_type": "manipuland",
+      "bounds_blender": {
+        "min": [
+          9.766966819763184,
+          7.343145370483398,
+          0.6436935067176819
+        ],
+        "max": [
+          10.054357528686523,
+          7.618943691253662,
+          0.940003514289856
+        ]
+      }
+    }
+  ],
+  "navigation": {
+    "eye_height": 1.4,
+    "bounds": {
+      "minX": -4.2245864435,
+      "maxX": 4.224586443500001,
+      "minZ": -1.9219224455000001,
+      "maxZ": 1.9219224455000001
+    },
+    "obstacles": [
+      {
+        "id": "exec_desk_0",
+        "minX": -3.9738236313250734,
+        "maxX": -2.5148650055316164,
+        "minZ": -1.6783870211853023,
+        "maxZ": -0.9201768389953608,
+        "minY": -0.05913368985056877,
+        "maxY": 0.6639464497566223
+      },
+      {
+        "id": "credenza_0",
+        "minX": -1.593629682579346,
+        "maxX": -1.1209333782580568,
+        "minZ": -1.6796716204895015,
+        "maxZ": -0.38328490173950147,
+        "minY": -0.059095144271850586,
+        "maxY": 0.5470782518386841
+      },
+      {
+        "id": "office_chair_0",
+        "minX": -3.367851102867432,
+        "maxX": -2.7552619820025637,
+        "minZ": 1.354091311334229,
+        "maxZ": 1.9229656704650884,
+        "minY": -0.058017387986183167,
+        "maxY": 1.0469352006912231
+      },
+      {
+        "id": "execdesk_0",
+        "minX": 2.5205093974682615,
+        "maxX": 4.024320280036621,
+        "minZ": -1.5678528300537105,
+        "maxZ": -0.769845341802978,
+        "minY": -0.059158872812986374,
+        "maxY": 0.6639716029167175
+      },
+      {
+        "id": "teambench_0",
+        "minX": 1.0261003131481932,
+        "maxX": 2.65438905902832,
+        "minZ": 0.4493996151672368,
+        "maxZ": 1.2453872212158208,
+        "minY": -0.05936145409941673,
+        "maxY": 0.6929749846458435
+      },
+      {
+        "id": "taskchair_0",
+        "minX": -0.1357611065295412,
+        "maxX": 0.4834992045971678,
+        "minZ": 0.008740092156982904,
+        "maxZ": 0.5848475941406255,
+        "minY": -0.058017391711473465,
+        "maxY": 1.0469352006912231
+      },
+      {
+        "id": "taskchair_c_0",
+        "minX": 3.4768063182446287,
+        "maxX": 4.106487905463867,
+        "minZ": 0.673915530084229,
+        "maxZ": 1.2612034329162602,
+        "minY": -0.05801744759082794,
+        "maxY": 1.0469353199005127
+      }
+    ],
+    "spawn": {
+      "position": [
+        0.5754135564999996,
+        1.4,
+        -1.9219224455000001
+      ],
+      "target": [
+        -4.2245864435,
+        1.28,
+        1.9180775545000004
+      ]
+    }
+  }
+}

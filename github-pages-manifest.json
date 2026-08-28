@@ -1,0 +1,52 @@
+{
+  "generatedAt": "2026-08-28T14:42:18.274Z",
+  "scope": [
+    "minecraft",
+    "cyberpunk"
+  ],
+  "lockedEntryUrls": {
+    "minecraft": "./?case=minecraft",
+    "cyberpunk": "./?case=cyberpunk"
+  },
+  "rootFallback": "minecraft",
+  "cityCount": 2,
+  "interiorCount": 9,
+  "publishedBytes": 154821870,
+  "publishedMiB": 147.6,
+  "largestFileMiB": 45.3,
+  "sourceAssetsIncluded": [
+    "assets/minecraftcity_grid_demo.glb",
+    "assets/cities/cyberpunk.glb",
+    "assets/navigation/city-walk-height.json",
+    "assets/navigation/city-walk-height.bin",
+    "assets/navigation/cyberpunk-walk-height.json",
+    "assets/navigation/cyberpunk-walk-height.bin",
+    "assets/highlights/block-01-building-1.glb",
+    "assets/highlights/block-02-building-0.glb",
+    "assets/highlights/block-02-building-5.glb",
+    "assets/highlights/block-02-building-6.glb",
+    "assets/highlights/cyberpunk-block-01-building-0.glb",
+    "assets/highlights/cyberpunk-block-03-building-0.glb",
+    "assets/highlights/cyberpunk-block-05-building-0.glb",
+    "assets/highlights/cyberpunk-block-06-building-0.glb",
+    "assets/highlights/cyberpunk-block-09-building-0.glb",
+    "assets/interiors/minecraft-sales.glb",
+    "assets/interiors/minecraft-sales.export.json",
+    "assets/interiors/minecraft-living.glb",
+    "assets/interiors/minecraft-living.export.json",
+    "assets/interiors/minecraft-bedroom.glb",
+    "assets/interiors/minecraft-bedroom.export.json",
+    "assets/interiors/minecraft-cafe.glb",
+    "assets/interiors/minecraft-cafe.export.json",
+    "assets/interiors/cyberpunk-lounge.glb",
+    "assets/interiors/cyberpunk-lounge.export.json",
+    "assets/interiors/cyberpunk-home.glb",
+    "assets/interiors/cyberpunk-home.export.json",
+    "assets/interiors/cyberpunk-office.glb",
+    "assets/interiors/cyberpunk-office.export.json",
+    "assets/interiors/cyberpunk-retail-cafe.glb",
+    "assets/interiors/cyberpunk-retail-cafe.export.json",
+    "assets/interiors/cyberpunk-records.glb",
+    "assets/interiors/cyberpunk-records.export.json"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-08-24T17:57:27.406Z",
+  "source": "assets/cities/cyberpunk.glb",
+  "cityScale": 55,
+  "minX": -165,
+  "minZ": -165,
+  "maxX": 165,
+  "maxZ": 165,
+  "cellSize": 1.5,
+  "width": 221,
+  "depth": 221,
+  "heightLayers": 12,
+  "noData": -9999,
+  "validCells": 41465,
+  "acceptedTriangles": 707055,
+  "sampledMinY": 0.3379463851451874,
+  "sampledMaxY": 87.97969055175781,
+  "data": "cyberpunk-walk-height.bin"
+}
