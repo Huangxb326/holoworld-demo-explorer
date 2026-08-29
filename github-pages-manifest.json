@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-29T03:33:02.423Z",
+  "generatedAt": "2026-08-29T03:36:52.148Z",
   "scope": [
     "minecraft",
     "cyberpunk"
@@ -11,7 +11,7 @@
   "rootFallback": "minecraft",
   "cityCount": 2,
   "interiorCount": 9,
-  "publishedBytes": 154822110,
+  "publishedBytes": 154822113,
   "publishedMiB": 147.6,
   "largestFileMiB": 45.3,
   "sourceAssetsIncluded": [
