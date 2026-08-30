@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T10:39:02.832Z",
+  "generatedAt": "2026-08-30T10:53:38.925Z",
   "scope": [
     "minecraft",
     "cyberpunk",
@@ -9,13 +9,16 @@
   ],
   "lockedEntryUrls": {
     "minecraft": "./?case=minecraft",
-    "cyberpunk": "./?case=cyberpunk"
+    "cyberpunk": "./?case=cyberpunk",
+    "ghibli": "./?case=ghibli",
+    "european": "./?case=european",
+    "modern": "./?case=modern"
   },
-  "switchableEntryUrl": "./?case=dual",
+  "switchableEntryUrl": "./?case=switch",
   "rootFallback": "minecraft",
   "cityCount": 5,
   "interiorCount": 14,
-  "publishedBytes": 328702455,
+  "publishedBytes": 328703389,
   "publishedMiB": 313.5,
   "largestFileMiB": 54.8,
   "sourceAssetsIncluded": [
