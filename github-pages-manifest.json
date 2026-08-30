@@ -1,8 +1,9 @@
 {
-  "generatedAt": "2026-08-29T09:44:30.184Z",
+  "generatedAt": "2026-08-30T10:04:10.926Z",
   "scope": [
     "minecraft",
-    "cyberpunk"
+    "cyberpunk",
+    "modern"
   ],
   "lockedEntryUrls": {
     "minecraft": "./?case=minecraft",
@@ -10,18 +11,21 @@
   },
   "switchableEntryUrl": "./?case=dual",
   "rootFallback": "minecraft",
-  "cityCount": 2,
-  "interiorCount": 9,
-  "publishedBytes": 154822138,
-  "publishedMiB": 147.6,
+  "cityCount": 3,
+  "interiorCount": 10,
+  "publishedBytes": 195515608,
+  "publishedMiB": 186.5,
   "largestFileMiB": 45.3,
   "sourceAssetsIncluded": [
     "assets/minecraftcity_grid_demo.glb",
     "assets/cities/cyberpunk.glb",
+    "assets/cities/modern.glb",
     "assets/navigation/city-walk-height.json",
     "assets/navigation/city-walk-height.bin",
     "assets/navigation/cyberpunk-walk-height.json",
     "assets/navigation/cyberpunk-walk-height.bin",
+    "assets/navigation/modern-walk-height.json",
+    "assets/navigation/modern-walk-height.bin",
     "assets/highlights/block-01-building-1.glb",
     "assets/highlights/block-02-building-0.glb",
     "assets/highlights/block-02-building-5.glb",
@@ -31,6 +35,7 @@
     "assets/highlights/cyberpunk-block-05-building-0.glb",
     "assets/highlights/cyberpunk-block-06-building-0.glb",
     "assets/highlights/cyberpunk-block-09-building-0.glb",
+    "assets/highlights/modern-block-05-building-0.glb",
     "assets/interiors/minecraft-sales.glb",
     "assets/interiors/minecraft-sales.export.json",
     "assets/interiors/minecraft-living.glb",
@@ -48,6 +53,8 @@
     "assets/interiors/cyberpunk-retail-cafe.glb",
     "assets/interiors/cyberpunk-retail-cafe.export.json",
     "assets/interiors/cyberpunk-records.glb",
-    "assets/interiors/cyberpunk-records.export.json"
+    "assets/interiors/cyberpunk-records.export.json",
+    "assets/interiors/modern-office.glb",
+    "assets/interiors/modern-office.export.json"
   ]
 }

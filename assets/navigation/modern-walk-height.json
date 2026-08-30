@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-08-24T17:57:31.473Z",
+  "source": "assets/cities/modern.glb",
+  "cityScale": 55,
+  "minX": -165,
+  "minZ": -165,
+  "maxX": 165,
+  "maxZ": 165,
+  "cellSize": 1.5,
+  "width": 221,
+  "depth": 221,
+  "heightLayers": 12,
+  "noData": -9999,
+  "validCells": 41042,
+  "acceptedTriangles": 629693,
+  "sampledMinY": 1.5426445007324219,
+  "sampledMaxY": 59.49496841430664,
+  "data": "modern-walk-height.bin"
+}
