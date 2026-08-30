@@ -1,0 +1,768 @@
+{
+  "id": "european-sales-a",
+  "style": "european",
+  "label": "European Gallery Sales Floor",
+  "source_case": "0726/european_old_town_sales_floor_2026-07-24__07-40-26__scene_000",
+  "adjustment_tool_version": "1.0",
+  "adjustment_priority": "P1",
+  "space_scale": [
+    1.12,
+    1.12,
+    1.1
+  ],
+  "room_id": "room_0",
+  "room_type": "sales_floor",
+  "room_count": 1,
+  "room_area_original_square_metres": 15,
+  "room_area_adjusted_square_metres": 18.816,
+  "room_center_blender_xy": [
+    2.3852665249999996,
+    2.38526652
+  ],
+  "rooms": [
+    {
+      "id": "room_0",
+      "type": "sales_floor",
+      "area_original": 15,
+      "area_adjusted": 18.816000000000003,
+      "polygon_blender_xy": [
+        [
+          0.14204343939999964,
+          0.2882838223999995
+        ],
+        [
+          4.6284896106,
+          0.2882838223999995
+        ],
+        [
+          4.6284896106,
+          4.482249217600001
+        ],
+        [
+          0.14204343939999964,
+          4.482249217600001
+        ]
+      ],
+      "polygon_three_xz": [
+        [
+          -2.2432230856,
+          2.0969826976000006
+        ],
+        [
+          2.2432230856000004,
+          2.0969826976000006
+        ],
+        [
+          2.2432230856000004,
+          -2.0969826976000006
+        ],
+        [
+          -2.2432230856,
+          -2.0969826976000006
+        ]
+      ]
+    }
+  ],
+  "mesh_count": 21,
+  "packed_image_count": 29,
+  "images": [
+    {
+      "name": "Image_0",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_1",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_10",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_11",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_12",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_13",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_14",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_15",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_16",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_17",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_18",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_19",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_2",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_20",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_21",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_22",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_23",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_24",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_25",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_26",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_27",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_28",
+      "packed": true,
+      "size": [
+        1024,
+        1024
+      ]
+    },
+    {
+      "name": "Image_3",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_4",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_5",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_6",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_7",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_8",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    },
+    {
+      "name": "Image_9",
+      "packed": true,
+      "size": [
+        1254,
+        1254
+      ]
+    }
+  ],
+  "meshes": [
+    {
+      "name": "geometry_0",
+      "root": "world",
+      "semantic_id": null,
+      "semantic_type": null,
+      "bounds_blender": {
+        "min": [
+          0.1420433521270752,
+          0.2882838249206543,
+          -0.11000000685453415
+        ],
+        "max": [
+          4.6284894943237305,
+          4.4822492599487305,
+          0
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.001",
+      "root": "world.001",
+      "semantic_id": "wall_0_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          4.628488063812256,
+          0.2882838249206543,
+          -1.7600903845504945e-7
+        ],
+        "max": [
+          4.684489727020264,
+          4.4822492599487305,
+          2.750000238418579
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.002",
+      "root": "world.002",
+      "semantic_id": "wall_1_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          0.142043337225914,
+          4.482248306274414,
+          0
+        ],
+        "max": [
+          4.6284894943237305,
+          4.538249969482422,
+          2.75
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.003",
+      "root": "world.003",
+      "semantic_id": "wall_2_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          0.0860423743724823,
+          0.2882838249206543,
+          -1.7600903845504945e-7
+        ],
+        "max": [
+          0.14204415678977966,
+          4.4822492599487305,
+          2.750000238418579
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.004",
+      "root": "world.004",
+      "semantic_id": "wall_3_wall",
+      "semantic_type": "wall",
+      "bounds_blender": {
+        "min": [
+          0.1420433521270752,
+          0.2322838306427002,
+          -3.278255533700758e-8
+        ],
+        "max": [
+          4.6284894943237305,
+          0.2882838249206543,
+          2.75
+        ]
+      }
+    },
+    {
+      "name": "frame",
+      "root": "world.005",
+      "semantic_id": null,
+      "semantic_type": null,
+      "bounds_blender": {
+        "min": [
+          1.2652662992477417,
+          0.2322838306427002,
+          0.6599999070167542
+        ],
+        "max": [
+          3.5052661895751953,
+          0.2882838249206543,
+          2.4200000762939453
+        ]
+      }
+    },
+    {
+      "name": "glass",
+      "root": "world.005",
+      "semantic_id": null,
+      "semantic_type": null,
+      "bounds_blender": {
+        "min": [
+          1.3212662935256958,
+          0.25468382239341736,
+          0.7149999141693115
+        ],
+        "max": [
+          3.4492664337158203,
+          0.26588383316993713,
+          2.365000009536743
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.006",
+      "root": "world.006",
+      "semantic_id": "sales_counter_a_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          1.8214936256408691,
+          3.158596992492676,
+          -0.057815998792648315
+        ],
+        "max": [
+          2.947965383529663,
+          3.854957342147827,
+          0.812208354473114
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.008",
+      "root": "world.007",
+      "semantic_id": "showcase_a_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          2.2960727214813232,
+          1.1577057838439941,
+          -0.056134968996047974
+        ],
+        "max": [
+          3.0351614952087402,
+          2.37870717048645,
+          0.6795875430107117
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.010",
+      "root": "world.008",
+      "semantic_id": "clothes_rack_a_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          3.283808469772339,
+          -0.02002333104610443,
+          -0.39862382411956787
+        ],
+        "max": [
+          4.572530746459961,
+          0.9416517019271851,
+          0.9401745796203613
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.012",
+      "root": "world.009",
+      "semantic_id": "lounge_chair_a_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          0.6969536542892456,
+          0.8826207518577576,
+          -0.06843559443950653
+        ],
+        "max": [
+          1.49093759059906,
+          1.7798959016799927,
+          0.61094069480896
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.016",
+      "root": "world.010",
+      "semantic_id": "floor_lamp_a_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          0.352254182100296,
+          2.4182469844818115,
+          -0.05572574585676193
+        ],
+        "max": [
+          0.7635164260864258,
+          2.833326578140259,
+          1.4525597095489502
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.020",
+      "root": "world.011",
+      "semantic_id": "cabinet_a_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          0.6902852654457092,
+          3.068277597427368,
+          -0.05653424188494682
+        ],
+        "max": [
+          1.1513619422912598,
+          4.1918535232543945,
+          0.6451053023338318
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.022",
+      "root": "world.012",
+      "semantic_id": "stool_a_0",
+      "semantic_type": "furniture",
+      "bounds_blender": {
+        "min": [
+          2.2126991748809814,
+          3.937809944152832,
+          -0.05519424006342888
+        ],
+        "max": [
+          2.55375075340271,
+          4.305858612060547,
+          0.37379157543182373
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.005",
+      "root": "world.013",
+      "semantic_id": "glass_display_case_0",
+      "semantic_type": "wall_mounted",
+      "bounds_blender": {
+        "min": [
+          2.0819215774536133,
+          4.242249488830566,
+          1.5529574155807495
+        ],
+        "max": [
+          2.6821646690368652,
+          4.4822492599487305,
+          1.9230424165725708
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.007",
+      "root": "world.014",
+      "semantic_id": "perimeter_bookshelf_0",
+      "semantic_type": "wall_mounted",
+      "bounds_blender": {
+        "min": [
+          0.142043337225914,
+          2.826418876647949,
+          1.4431116580963135
+        ],
+        "max": [
+          0.42204347252845764,
+          3.9086532592773438,
+          2.4084935188293457
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.011",
+      "root": "world.015",
+      "semantic_id": "folded_goods_ledge_0",
+      "semantic_type": "wall_mounted",
+      "bounds_blender": {
+        "min": [
+          4.5431294441223145,
+          2.2878642082214355,
+          1.9119998216629028
+        ],
+        "max": [
+          4.6284894943237305,
+          2.5326337814331055,
+          2.0919997692108154
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.014",
+      "root": "world.016",
+      "semantic_id": "merchandise_shelf_0",
+      "semantic_type": "wall_mounted",
+      "bounds_blender": {
+        "min": [
+          0.32811832427978516,
+          0.28828394412994385,
+          1.7039999961853027
+        ],
+        "max": [
+          1.0888607501983643,
+          0.553872287273407,
+          2.124000072479248
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.009",
+      "root": "world.017",
+      "semantic_id": "folded_goods_ledge_1",
+      "semantic_type": "wall_mounted",
+      "bounds_blender": {
+        "min": [
+          3.5476582050323486,
+          4.3968892097473145,
+          1.9119995832443237
+        ],
+        "max": [
+          3.7924277782440186,
+          4.4822492599487305,
+          2.0919995307922363
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.013",
+      "root": "world.018",
+      "semantic_id": "merchandise_shelf_1",
+      "semantic_type": "wall_mounted",
+      "bounds_blender": {
+        "min": [
+          0.1420433670282364,
+          0.9159128069877625,
+          1.7039998769760132
+        ],
+        "max": [
+          0.4076318144798279,
+          1.6766552925109863,
+          2.123999834060669
+        ]
+      }
+    },
+    {
+      "name": "geometry_0.017",
+      "root": "world.019",
+      "semantic_id": "sales_floor_pendant_0",
+      "semantic_type": "ceiling_mounted",
+      "bounds_blender": {
+        "min": [
+          2.1340172290802,
+          2.1334078311920166,
+          2
+        ],
+        "max": [
+          2.6432321071624756,
+          2.637598752975464,
+          2.75
+        ]
+      }
+    }
+  ],
+  "navigation": {
+    "eye_height": 1.4,
+    "bounds": {
+      "minX": -1.9632230856,
+      "maxX": 1.9632230856000004,
+      "minZ": -1.8169826976000005,
+      "maxZ": 1.8169826976000005
+    },
+    "obstacles": [
+      {
+        "id": "sales_counter_a_0",
+        "minX": -0.5637728993591304,
+        "maxX": 0.5626988585296635,
+        "minZ": -1.469690822147827,
+        "maxZ": -0.7733304724926757,
+        "minY": -0.057815998792648315,
+        "maxY": 0.812208354473114
+      },
+      {
+        "id": "showcase_a_0",
+        "minX": -0.08919380351867634,
+        "maxX": 0.6498949702087407,
+        "minZ": 0.006559349513549861,
+        "maxZ": 1.227560736156006,
+        "minY": -0.056134968996047974,
+        "maxY": 0.6795875430107117
+      },
+      {
+        "id": "clothes_rack_a_0",
+        "minX": 0.8985419447723393,
+        "maxX": 2.1872642214599614,
+        "minZ": 1.443614818072815,
+        "maxZ": 2.4052898510461045,
+        "minY": -0.39862382411956787,
+        "maxY": 0.9401745796203613
+      },
+      {
+        "id": "lounge_chair_a_0",
+        "minX": -1.688312870710754,
+        "maxX": -0.8943289344009395,
+        "minZ": 0.6053706183200074,
+        "maxZ": 1.5026457681422425,
+        "minY": -0.06843559443950653,
+        "maxY": 0.61094069480896
+      },
+      {
+        "id": "floor_lamp_a_0",
+        "minX": -2.0330123428997036,
+        "maxX": -1.6217500989135738,
+        "minZ": -0.44806005814025873,
+        "maxZ": -0.03298046448181147,
+        "minY": -0.05572574585676193,
+        "maxY": 1.4525597095489502
+      },
+      {
+        "id": "cabinet_a_0",
+        "minX": -1.6949812595542904,
+        "maxX": -1.2339045827087398,
+        "minZ": -1.8065870032543945,
+        "maxZ": -0.6830110774273681,
+        "minY": -0.05653424188494682,
+        "maxY": 0.6451053023338318
+      },
+      {
+        "id": "stool_a_0",
+        "minX": -0.17256735011901814,
+        "maxX": 0.16848422840271038,
+        "minZ": -1.9205920920605468,
+        "maxZ": -1.552543424152832,
+        "minY": -0.05519424006342888,
+        "maxY": 0.37379157543182373
+      }
+    ],
+    "spawn": {
+      "position": [
+        1.8767769144000006,
+        1.4,
+        -1.8169826976000005
+      ],
+      "target": [
+        -1.0032230855999997,
+        1.28,
+        0.10301730239999973
+      ]
+    }
+  }
+}

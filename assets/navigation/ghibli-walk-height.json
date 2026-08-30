@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-08-24T17:57:28.794Z",
+  "source": "assets/cities/ghibli.glb",
+  "cityScale": 55,
+  "minX": -165,
+  "minZ": -165,
+  "maxX": 165,
+  "maxZ": 165,
+  "cellSize": 1.5,
+  "width": 221,
+  "depth": 221,
+  "heightLayers": 12,
+  "noData": -9999,
+  "validCells": 39331,
+  "acceptedTriangles": 847066,
+  "sampledMinY": 0.3769506514072418,
+  "sampledMaxY": 61.22085952758789,
+  "data": "ghibli-walk-height.bin"
+}

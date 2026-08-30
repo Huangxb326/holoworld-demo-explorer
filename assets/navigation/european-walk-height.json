@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-08-24T17:57:30.601Z",
+  "source": "assets/cities/european.glb",
+  "cityScale": 55,
+  "minX": -165,
+  "minZ": -165,
+  "maxX": 165,
+  "maxZ": 165,
+  "cellSize": 1.5,
+  "width": 221,
+  "depth": 221,
+  "heightLayers": 12,
+  "noData": -9999,
+  "validCells": 40520,
+  "acceptedTriangles": 709784,
+  "sampledMinY": 0.9412581920623779,
+  "sampledMaxY": 51.0490608215332,
+  "data": "european-walk-height.bin"
+}
